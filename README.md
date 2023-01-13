@@ -18,6 +18,7 @@ Welcome to Anything V4 - a latent diffusion model for weebs. The newest version 
 
 e.g. **_1girl, white hair, golden eyes, beautiful eyes, detail, flower meadow, cumulonimbus clouds, lighting, detailed sky, garden_** 
 
+I think the V4.5 version better though, it's in this repo. feel free 2 try it 
 
 ## 🧨 Diffusers
 
