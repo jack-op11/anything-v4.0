@@ -32,15 +32,13 @@ from diffusers import StableDiffusionPipeline
 import torch
 
 model_id = "andite/anything-v4.0"
-branch_name= "diffusers"
-
-pipe = StableDiffusionPipeline.from_pretrained(model_id, revision=branch_name, torch_dtype=torch.float16)
+pipe = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float16)
 pipe = pipe.to("cuda")
 
-prompt = "hatsune miku"
+prompt = "hatsune_miku"
 image = pipe(prompt).images[0]
 
-image.save("./hatsune miku.png")
+image.save("./hatsune_miku.png")
 ```
 
 ## Examples
