@@ -32,7 +32,7 @@ e.g. **_1girl, white hair, golden eyes, beautiful eyes, detail, flower meadow, c
 
 I think the V4.5 version better though, it's in this repo. feel free 2 try it.
 
-## Yes, this model has [AbyssOrangeMix2](https://huggingface.co/WarriorMama777/OrangeMixs) in it. coz its a very good model
+## Yes, this model has [AbyssOrangeMix2](https://huggingface.co/WarriorMama777/OrangeMixs) in it. coz its a very good model. check it out luls ;)
 
 
 # Gradio
