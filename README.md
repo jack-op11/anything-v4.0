@@ -10,7 +10,7 @@ tags:
 inference: true
 ---
 
-Try out my new mix! - [Pastel Mix](https://huggingface.co/andite/pastel-mix). Thanks.
+Try out my new model! - [Pastel Mix || Stylized Anime Model](https://huggingface.co/andite/pastel-mix). Thanks.
 
 Yes, it's a shameless plug.
 
