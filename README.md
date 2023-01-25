@@ -30,7 +30,9 @@ Welcome to Anything V4 - a latent diffusion model for weebs. The newest version 
 
 e.g. **_1girl, white hair, golden eyes, beautiful eyes, detail, flower meadow, cumulonimbus clouds, lighting, detailed sky, garden_** 
 
-I think the V4.5 version better though, it's in this repo. feel free 2 try it 
+I think the V4.5 version better though, it's in this repo. feel free 2 try it.
+
+## Yes, this model has [AbyssOrangeMix2](https://huggingface.co/WarriorMama777/OrangeMixs) in it. coz its a very good model
 
 # Gradio
 
