@@ -10,6 +10,15 @@ tags:
 inference: true
 ---
 
+Try out my new mix! - [Pastel Mix](https://huggingface.co/andite/pastel-mix). Thanks.
+
+Yes, it's a shameless plug.
+
+![](https://huggingface.co/andite/Pastel-Mix/resolve/main/example-images/grid-0020.png)
+![](https://huggingface.co/andite/pastel-mix/resolve/main/example-images/grid-reimu.png)
+
+-------
+
 <font color="grey">Thanks to [Linaqruf](https://huggingface.co/Linaqruf) for letting me borrow his model card for reference.
 
 # Anything V4
