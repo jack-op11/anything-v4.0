@@ -16,7 +16,7 @@ Yes, it's a shameless plug.
 
 Examples:
 
-![](https://huggingface.co/andite/Pastel-Mix/resolve/main/example-images/grid-0020.png)
+![](https://huggingface.co/andite/Pastel-Mix/resolve/main/example-images/grid-0018.png)
 ![](https://huggingface.co/andite/pastel-mix/resolve/main/example-images/grid-reimu.png)
 ![](https://huggingface.co/andite/pastel-mix/resolve/main/example-images/grid-0043.png)
 
